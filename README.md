@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-My main project in ultimate react course of Jonas.
+Full stack react app built with React Query and Supabase.
