@@ -2,6 +2,7 @@
 
 Full stack react app built with React Query and Supabase.
 
-## Feel free to check it out
+## Feel free to check it out [The Wild Oasis](https://the-wild-oasis-rest.vercel.app/)
 
-[The Wild Oasis](https://the-wild-oasis-rest.vercel.app/)
+username:https://the-wild-oasis-rest.vercel.app/
+password:test1234
