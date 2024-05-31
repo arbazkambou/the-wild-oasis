@@ -15,6 +15,7 @@ import Booking from "./pages/Booking";
 import Checkin from "./pages/Checkin";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import ErrorFallback from "./ui/ErrorFallback";
+import Uploader from "./data/Uploader";
 
 const router = createBrowserRouter([
   {
@@ -61,6 +62,10 @@ const router = createBrowserRouter([
       {
         path: "checkin/:bookingId",
         element: <Checkin />,
+      },
+      {
+        path: "upload-data",
+        element: <Uploader />,
       },
     ],
   },
