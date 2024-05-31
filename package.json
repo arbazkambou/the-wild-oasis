@@ -1,6 +1,6 @@
 {
   "name": "22-wild-oasis",
-  "private": true,
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
