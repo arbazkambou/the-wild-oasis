@@ -45,6 +45,13 @@ The Wild Oasis is a React application designed for managing hotel operations. It
 - **Version Control**: Managing code changes with Git.
 - **Project Management**: Planning, developing, and testing a comprehensive project.
 
+## Test Credentials
+
+If you want to test the deployed app, you can use the following credentials:
+
+- **Username**: `test@gmail.com`
+- **Password**: `test1234`
+
 ## Contact
 
 For any questions or feedback, you can reach me at [arbazkambo342@gmail.com](mailto:arbazkambo342@gmail.com).
